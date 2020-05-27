@@ -29,7 +29,7 @@ def get_env_or_raise(key):
 # 应用 ID
 APP_CODE = 'exam'
 # 应用用于调用云 API 的 Secret
-SECRET_KEY = '1f76ed4a-abf4-491a-ad7b-ad0640befea5'
+SECRET_KEY = '2b912a55-b5e5-48b8-bc93-0a11c3e581e1'
 
 
 # SaaS运行版本，如非必要请勿修改
