@@ -29,13 +29,13 @@ def get_env_or_raise(key):
 # 应用 ID
 APP_CODE = 'exam'
 # 应用用于调用云 API 的 Secret
-SECRET_KEY = '2b912a55-b5e5-48b8-bc93-0a11c3e581e1'
+SECRET_KEY = '1b9394be-c1ca-47ab-9e7a-55bbfd9d9fc0'
 
 
 # SaaS运行版本，如非必要请勿修改
 RUN_VER = 'open'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
-BK_URL = "http://paas.bk.g/"
+BK_URL = "http://paas.lcy.com/"
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(
