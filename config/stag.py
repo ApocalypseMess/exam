@@ -26,7 +26,7 @@ DATABASES.update(
             'NAME': 'kaoshi',  #  数据库名
             'USER': 'root',  #  用户
             'PASSWORD': '0N9LZr3ksu',  # 数据库密码
-            'HOST': '139.155.71', # 数据库 IP
+            'HOST': '172.27.0.133', # 数据库 IP
             'PORT': '3306',
         },
     }
